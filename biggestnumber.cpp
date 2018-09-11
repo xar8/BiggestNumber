@@ -26,7 +26,8 @@ int main()
        
   //print out the variable representing the biggest number
   
-  std::cout<<"Of those two numbers, the biggest is: " << biggest << "Thank you for playing.\n";
+  std::cout<<"Of those two numbers, the biggest is: " << biggest << std::endl;
+  std::cout<<"Thank you for playing.\n";
   
   return 0;
 }
