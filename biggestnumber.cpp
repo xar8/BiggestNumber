@@ -23,12 +23,10 @@ int main()
        {
          biggest = number2;
        } 
-      
-  std::cout<<"Of those two numbers, the biggest is: " << biggest <<std::endl;
-     
+       
   //print out the variable representing the biggest number
   
-  std::cout<<std::endl<<"Thank you for playing.\n";
+  std::cout<<"Of those two numbers, the biggest is: " << biggest << "Thank you for playing.\n";
   
   return 0;
 }
